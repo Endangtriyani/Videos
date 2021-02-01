@@ -165,4 +165,4 @@ async def stop(ctx):
 async def change_status():
     await client.change_presence(activity=discord.Game(choice(status)))
 
-client.run('NzQxMTA4NzQ0NDAxODQ2NDI1.XyyxTQ.1W7TUZ_2Vn8r5w52yiTwkLYkDQo')
+client.run('Nzc2MjI2ODQ0OTA2NjE4OTAx.X6xzlQ.hHxBorMDKbWaO6iXHqP94EC2MeY')
